@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Desktop Organizer
 
 This Python script helps you organize your cluttered desktop by sorting files into categorized folders.
